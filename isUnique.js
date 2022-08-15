@@ -1,13 +1,10 @@
-let arr = [];
-for (let i = 0; i < 255; i++) {
-    arr[i] = 0;
-}
 function check(str) {
+    let obj = {};
     for (let i = 0; i < str.length; ++i) {
-        if (arr[str.charCodeAt(i)] === 1) {
+        if (obj[str.charCodeAt(i)] === 1) {
             return false;
         }
-        arr[str.charCodeAt(i)] = 1;
+        obj[str.charCodeAt(i)] = 1;
     }
     return true;
 }
