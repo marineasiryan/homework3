@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="993966d2-2aa6-4ff2-9f5f-d9bd76478042" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/isUnique.js" beforeDir="false" afterPath="$PROJECT_DIR$/isUnique.js" afterDir="false" />
-    </list>
+    <list default="true" id="993966d2-2aa6-4ff2-9f5f-d9bd76478042" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +23,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/marine/Desktop/homework3",
+    "last_opened_file_path": "/home/marine/Desktop/interpretator",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -39,10 +37,22 @@
       <option name="presentableId" value="Default" />
       <updated>1660547742024</updated>
       <workItem from="1660547743400" duration="78000" />
+      <workItem from="1663413775580" duration="711000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
